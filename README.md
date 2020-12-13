@@ -108,7 +108,6 @@
 
 1. Gatsby Docs
 2. Gotchas - url, styling
-3. Use in template - johnsmilga.com
 
 ### MDX
 
